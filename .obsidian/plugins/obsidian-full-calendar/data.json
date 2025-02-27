@@ -1,0 +1,65 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "name": "Lifestyle",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/20197904394/calendars/3988534B-590B-4BAA-95D7-C44EE73952E6/",
+      "color": "#FFCC00",
+      "username": "mustafa.y.elagib@gmail.com",
+      "password": "iwzr-nnso-blmi-mmmg"
+    },
+    {
+      "type": "caldav",
+      "name": "Home",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/20197904394/calendars/4EC9C647-C069-4918-8E07-46EBBB8130D4/",
+      "color": "#34AADC",
+      "username": "mustafa.y.elagib@gmail.com",
+      "password": "iwzr-nnso-blmi-mmmg"
+    },
+    {
+      "type": "caldav",
+      "name": "MMU",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/20197904394/calendars/873B63D7-354E-4AFB-92D0-8BE7DC16FE16/",
+      "color": "#FF2968",
+      "username": "mustafa.y.elagib@gmail.com",
+      "password": "iwzr-nnso-blmi-mmmg"
+    },
+    {
+      "type": "caldav",
+      "name": "البناء المنهجي ",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/20197904394/calendars/C7950C0A-61B4-4552-BE41-0704A3E008F4/",
+      "color": "#6FF0CE",
+      "username": "mustafa.y.elagib@gmail.com",
+      "password": "iwzr-nnso-blmi-mmmg"
+    },
+    {
+      "type": "caldav",
+      "name": "Commitments",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/20197904394/calendars/CA98A490-F1F9-4C06-B0DC-8E76147F908B/",
+      "color": "#4724AB",
+      "username": "mustafa.y.elagib@gmail.com",
+      "password": "iwzr-nnso-blmi-mmmg"
+    },
+    {
+      "type": "caldav",
+      "name": "Academic",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/20197904394/calendars/E5EBBE02-28CB-4D9A-A973-A9494CBB7CFE/",
+      "color": "#711A76",
+      "username": "mustafa.y.elagib@gmail.com",
+      "password": "iwzr-nnso-blmi-mmmg"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

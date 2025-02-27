@@ -1,0 +1,9 @@
+**Goals for today**:
+
+**Spiritual**
+
+**Personal**
+
+**Physical**
+
+**Professional**

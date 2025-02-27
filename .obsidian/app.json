@@ -1,1 +1,8 @@
-{}
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Resources/Attachments",
+  "userIgnoreFilters": [
+    "Resources/"
+  ],
+  "alwaysUpdateLinks": true
+}

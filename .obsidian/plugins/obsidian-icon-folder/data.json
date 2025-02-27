@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHome",
+      "LiNewspaper",
+      "LiImage",
+      "LiBook",
+      "LiMicrochip"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Projects": "LiKanbanSquare",
+  "Personal/Shopping List.md": "LiShoppingCart",
+  "Personal/Tasks.md": "LiCheckSmall",
+  "Personal/Journal": "LiNotebook",
+  "Personal": "LiUser",
+  "Engineering": "LiWrench",
+  "Deen": "LiHeart",
+  "Computer Science": "LiMicrochip",
+  "Books": "LiBook",
+  "Posts": "LiNewspaper",
+  "Resources": "LiImage",
+  "index.md": "LiHome"
+}

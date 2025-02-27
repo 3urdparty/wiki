@@ -1,6 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
+Synced successfully
 This is my personal wiki for the following areas: 
 - [[Computer Science]]
 - [[Robotics]]
